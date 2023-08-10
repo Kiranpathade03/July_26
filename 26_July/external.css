@@ -1,0 +1,26 @@
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    background-color: rgb(194, 248, 248);
+    color: black;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: brown;
+}
+
+h4 {
+    color: navy;
+}
+
+body {
+    background-color: rgb(251, 219, 216);
+}
